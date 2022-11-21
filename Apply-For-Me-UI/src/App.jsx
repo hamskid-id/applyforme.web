@@ -26,9 +26,9 @@ import Brand from "./pages/blog/pages/brand/Brand";
 import Endorsment from "./pages/blog/pages/endorsement/Endorsement";
 import JobDescription from "./pages/job_decription/JobDescription";
 // import AdminDashboard from "./pages/admin_dashboard/AdminDashboard";
-import ApplicantDetails from "./pages/admin_dashboard/components/applicant_details/ApplicantDetails";
-import ApplicationForm from "./pages/admin_dashboard/components/application_form/ApplicationForm";
-import DashboardHome from "./pages/admin_dashboard/components/dashboard_home/DashboardHome";
+
+
+
 import ReverseApp from './pages/App_s/Appss'
 import { ProfileScreen } from "./components/superAdmmin_profile/superAdmin_profileScreen";
 
